@@ -20,7 +20,7 @@ renren help
 ```
 
 ## 具体运行截图请访问我博客
-## (https://blog.mark56.cn)[https://blog.mark56.cn]
+## [https://blog.mark56.cn](https://blog.mark56.cn)
 
 
 
