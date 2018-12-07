@@ -1,5 +1,5 @@
-# 人人影视自动上传脚本
-### 帮助命令
+# 人人影视自动上传脚本c++版
+### 使用方法
 ```
 renren help
 ./renrenupload renren ip port password uploadprogram uploaddir downloaddir panfu
@@ -19,7 +19,8 @@ renren help
 
 ```
 
-### 软件截图
+## 具体运行截图请访问我博客
+## (https://blog.mark56.cn)[https://blog.mark56.cn]
 
 
 
